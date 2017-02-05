@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					5F0D674B1E4632F5005B5DBC = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = MA8KQ96X69;
 						ProvisioningStyle = Automatic;
 					};
 					5F0D675F1E4632F6005B5DBC = {
@@ -412,7 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MA8KQ96X69;
 				INFOPLIST_FILE = "Bip the Guy/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gilmour.Bip-the-Guy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MA8KQ96X69;
 				INFOPLIST_FILE = "Bip the Guy/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gilmour.Bip-the-Guy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
